@@ -1,9 +1,9 @@
 const cacheName = "Tchiff-Wedding-0.1";
 const contentToCache = [
     "Build/Wedding.loader.js",
-    "Build/Wedding.framework.js.unityweb",
-    "Build/Wedding.data.unityweb",
-    "Build/Wedding.wasm.unityweb",
+    "Build/Wedding.framework.js",
+    "Build/Wedding.data",
+    "Build/Wedding.wasm",
     "TemplateData/style.css"
 
 ];
